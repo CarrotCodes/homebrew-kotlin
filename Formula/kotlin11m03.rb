@@ -1,4 +1,4 @@
-class Kotlin11M03 < Formula
+class Kotlin11m03 < Formula
   desc "Statically typed programming language for the JVM"
   homepage "https://kotlinlang.org/"
   url "https://github.com/JetBrains/kotlin/releases/download/v1.1-M03/kotlin-compiler-1.1-M03.zip"
